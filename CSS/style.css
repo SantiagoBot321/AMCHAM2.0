@@ -1,0 +1,20 @@
+@import url(/CSS/header.css);
+@import url(/CSS/historias.css);
+@import url(/CSS/noticias.css);
+@import url(/CSS/form.css);
+@import url(/CSS/contacto.css);
+@import url(/CSS/footer.css);
+@import url(https://kit.fontawesome.com/f82a89195a.js);
+@import url(/fuentes/css/all.min.css);
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+
+

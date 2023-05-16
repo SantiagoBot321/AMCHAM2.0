@@ -1,0 +1,62 @@
+.section-title {
+    margin-bottom: 50px;
+    margin-top: 50px;
+    padding: 2%;
+    text-align: center;
+}
+  
+.historias {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+  
+.historias-item {
+    background-color: #9BA4B5;
+    border-radius: 10px;
+    display: flex;
+    flex-wrap: wrap;
+    height: auto;
+    margin: 10px;
+    overflow: hidden;
+    padding: 20px;
+    position: relative;
+    transition: transform 0.3s ease-in-out;
+    width: 330px;
+}
+
+
+  
+.historias-item__title {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+  
+.historias-item__content {
+    font-size: 14px;
+    line-height: 1.5;
+    padding: 15% 1%;
+    white-space: pre-line;
+}
+  
+.historias-item img {
+    border-radius: 10px;
+    height: auto;
+    width: 100%;
+
+}
+
+.historias-item:hover {
+    background-color: #394867;
+    color: aliceblue;
+    transform: scale(1.1);
+
+}
+  
+  
+  
+  
+  
+  
+  
+  

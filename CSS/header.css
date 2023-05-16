@@ -1,0 +1,26 @@
+.site-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #394867;
+    color: #F1F6F9;
+    padding: 2%;
+}
+  
+.site-navigation {
+    display: flex;
+    justify-content: flex-end;
+}
+  
+.site-navigation a {
+    margin-left: 1em; 
+    text-decoration: none;
+    color: #F1F6F9;
+}
+
+.site-navigation a:hover {
+    color: #FC2947;
+}
+
+@media screen and (max-width: 768px) {
+}
