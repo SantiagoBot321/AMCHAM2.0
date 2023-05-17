@@ -6,6 +6,8 @@
 @import url(/CSS/footer.css);
 @import url(https://kit.fontawesome.com/f82a89195a.js);
 @import url(/fuentes/css/all.min.css);
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400&display=swap');
+
 *{
     margin: 0;
     padding: 0;
@@ -13,7 +15,7 @@
 }
 
 body {
-    font-family:Arial, Helvetica, sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 
